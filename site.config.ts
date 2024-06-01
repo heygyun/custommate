@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Custommate Blog',
+  name: 'custommate-blog',
   domain: 'custommate.vercel.app',
   author: 'heygyun',
 
@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'custommate blog',
 
   // social usernames (optional)
-  twitter: '',
+  instagram: 'heygyun',
   github: 'heygyun',
-  linkedin: '',
+  website: 'https://custom-mate.com',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
