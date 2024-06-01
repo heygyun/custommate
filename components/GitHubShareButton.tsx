@@ -3,6 +3,12 @@ import * as React from 'react'
 import styles from './styles.module.css'
 
 export const GitHubShareButton: React.FC = () => {
+  const showButton = false; // false로 설정하여 버튼을 숨깁니다.
+
+  if (!showButton) {
+    return null; // 버튼을 렌더링하지 않습니다.
+  }
+
   return (
     <a
       href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
