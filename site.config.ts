@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'custommate blog',
 
   // social usernames (optional)
-  github: 'heygyun',
+  // github: 'heygyun',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
