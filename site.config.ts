@@ -17,7 +17,6 @@ export default siteConfig({
   description: 'custommate blog',
 
   // social usernames (optional)
-  instagram: 'heygyun',
   github: 'heygyun',
   website: 'https://custom-mate.com',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
